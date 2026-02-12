@@ -1,3 +1,7 @@
 I am creating this file for branch merging
 I am typing something into it
-This line is for master branch
+<<<<<<< HEAD
+This line is for master branch.
+=======
+This line is added from Amuda branch
+>>>>>>> Amuda
