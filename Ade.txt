@@ -1,3 +1,7 @@
-I just created this file
+I just created this file.
+<<<<<<< Updated upstream
 I am testing the stash
 
+=======
+I am writing something 
+>>>>>>> Stashed changes
